@@ -1,1 +1,82 @@
-*
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Dataset Files
+dataset/
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Power BI / Tableau Files
+*.pbix
+*.twb
+*.twbx
+
+# Model Files
+models/
+*.pkl
+*.joblib
+*.h5
+
+# Output Files
+output/
+results/
+reports/
+
+# Cache Files
+.cache/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# SQLite Database
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+temp/
+tmp/
+
+# Matplotlib Cache
+.matplotlib/
+
+# Streamlit Cache
+.streamlit/
+
+# Mac/Linux Hidden Files
+*.swp
+```*
